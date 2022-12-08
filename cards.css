@@ -33,6 +33,7 @@ body {
 		cubic-bezier(0.38, 0.97, 0.56, 0.76) forwards;
 	border-radius: 0.25em;
 	max-width: 20em;
+	min-width: 10em;
     	flex: 1 0 auto;
 	overflow: hidden;
 }
