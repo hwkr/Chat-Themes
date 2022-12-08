@@ -20,7 +20,7 @@ body {
 }
 
 [data-twitch-message] {
-	background: #ccc;
+	background: #fff;
 	margin-bottom: 1em;
 	margin-top: 1em;
 	padding: 0.75em;
@@ -45,9 +45,8 @@ body {
 }
 
 .twitch-chat-sender {
-	text-transform: uppercase;
 	font-weight: 800;
-	color: #ff4367;
+	color: var(--twitch-sender-color, #0e2058);
 	margin-bottom: 0.1em;
 }
 
