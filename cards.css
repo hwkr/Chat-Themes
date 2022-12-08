@@ -45,6 +45,7 @@ body {
 }
 
 .twitch-chat-sender {
+	text-transform: uppercase;
 	font-weight: 800;
 	color: #ff4367;
 	margin-bottom: 0.1em;
